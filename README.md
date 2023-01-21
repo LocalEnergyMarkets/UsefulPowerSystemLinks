@@ -21,3 +21,5 @@ https://simbench.de/de/datensaetze/
 ## Distribution line parameters
 Look at the first and the last post:
 https://sourceforge.net/p/electricdss/discussion/beginners/thread/a35da1df8e/
+
+https://www.softxjournal.com/action/showPdf?pii=S2352-7110%2823%2900010-9
