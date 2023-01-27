@@ -7,6 +7,9 @@
 - NREL-SIIP (https://github.com/NREL-SIIP)
 - PowerSimulationsDynamics.jl  (https://docs.juliahub.com/PowerSimulationsDynamics/)
 
+## Python
+- https://wiki.python.org/moin/BeginnersGuide/Programmers
+- https://code.visualstudio.com/docs/python/python-tutorial
 
 ## Matlab
 - PSAT (http://faraday1.ucd.ie/psat.html)
