@@ -11,6 +11,9 @@
 - https://wiki.python.org/moin/BeginnersGuide/Programmers
 - https://code.visualstudio.com/docs/python/python-tutorial
 
+### Data
+https://pvlib-python.readthedocs.io/en/stable/
+
 ## Matlab
 - PSAT (http://faraday1.ucd.ie/psat.html)
 
