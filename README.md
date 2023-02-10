@@ -32,3 +32,6 @@ Look at the first and the last post:
 https://sourceforge.net/p/electricdss/discussion/beginners/thread/a35da1df8e/
 
 https://www.softxjournal.com/action/showPdf?pii=S2352-7110%2823%2900010-9
+
+## Electricity Market report 2023
+https://media.licdn.com/dms/document/C4E1FAQHKnuBSm0nw1Q/feedshare-document-pdf-analyzed/0/1676017017729?e=1677110400&v=beta&t=AfDoKaNfYi3sh3YyJNjikVQm8c4YPJ5I0Ov1l62QeUE
