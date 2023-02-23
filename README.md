@@ -10,6 +10,7 @@
 ## Python
 - https://wiki.python.org/moin/BeginnersGuide/Programmers
 - https://code.visualstudio.com/docs/python/python-tutorial
+- https://pipenv-fork.readthedocs.io/en/latest/basics.html
 
 ### Data
 https://pvlib-python.readthedocs.io/en/stable/
