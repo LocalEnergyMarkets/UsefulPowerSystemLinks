@@ -18,8 +18,8 @@ https://pvlib-python.readthedocs.io/en/stable/
 ## Matlab
 - PSAT (http://faraday1.ucd.ie/psat.html)
 
-
-
+## GridCal
+- https://github.com/SanPen/GridCal
 
 ## Synthetic grids
 https://simbench.de/de/datensaetze/
