@@ -36,3 +36,6 @@ https://www.softxjournal.com/action/showPdf?pii=S2352-7110%2823%2900010-9
 
 ## Electricity Market report 2023
 https://media.licdn.com/dms/document/C4E1FAQHKnuBSm0nw1Q/feedshare-document-pdf-analyzed/0/1676017017729?e=1677110400&v=beta&t=AfDoKaNfYi3sh3YyJNjikVQm8c4YPJ5I0Ov1l62QeUE
+
+## entsoe: Stakeholder consultation document and Impact Assessment for the Capacity Calculation Methodology Proposal for the Nordic CCR 
+https://eepublicdownloads.entsoe.eu/clean-documents/nc-tasks/Nordic%20-%2020.1%20-%20TSOs%20Consultation%20answer.pdf
