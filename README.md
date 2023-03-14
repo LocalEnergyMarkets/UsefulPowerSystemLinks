@@ -17,6 +17,8 @@ https://pvlib-python.readthedocs.io/en/stable/
 
 ## Matlab
 - PSAT (http://faraday1.ucd.ie/psat.html)
+- https://stanford.edu/~lcambier/cgi-bin/fast/index.php    # SDDP - Hydropower scheduling
+
 
 ## GridCal
 - https://github.com/SanPen/GridCal
