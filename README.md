@@ -15,6 +15,9 @@
 ### Data
 https://pvlib-python.readthedocs.io/en/stable/
 
+### Data Science for Energy System Modelling
+https://fneum.github.io/data-science-for-esm/intro.html
+
 ## Matlab
 - PSAT (http://faraday1.ucd.ie/psat.html)
 - https://stanford.edu/~lcambier/cgi-bin/fast/index.php    # SDDP - Hydropower scheduling
