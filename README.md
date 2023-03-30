@@ -51,3 +51,20 @@ https://media.licdn.com/dms/document/C4E1FAQHKnuBSm0nw1Q/feedshare-document-pdf-
 
 ## entsoe: Stakeholder consultation document and Impact Assessment for the Capacity Calculation Methodology Proposal for the Nordic CCR 
 https://eepublicdownloads.entsoe.eu/clean-documents/nc-tasks/Nordic%20-%2020.1%20-%20TSOs%20Consultation%20answer.pdf
+
+## Looking for more transparency 👇
+
+
+Nordic Capacity Calculation Region (CCR) Day-Ahead flow-based public information overview:
+
+1️⃣ Input data and other information 👉 https://lnkd.in/egMTsNHC
+
+2️⃣ Description of the published data at JAO 👉 https://lnkd.in/ebz3PMUr
+
+3️⃣ Results from Market Coupling 👉 https://lnkd.in/e3kjtjQm
+
+4️⃣ Description of the simulation results 👉 https://lnkd.in/e4es-f75
+
+5️⃣ Subscribe to the Nordic flow-based newsletter 👉 https://lnkd.in/eEJVng67
+
+from Andre Estermann's Linkedin
